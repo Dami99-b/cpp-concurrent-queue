@@ -45,7 +45,9 @@ operation.
 - POSIX-compatible shell for the example commands
 
 The project was developed and tested in Termux using Clang.
+
 ```
+
 ```
 Build the project:
 
