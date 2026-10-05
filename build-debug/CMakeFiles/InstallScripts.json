@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/data/data/com.termux/files/home/cpp-concurrent-queue/build-debug/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

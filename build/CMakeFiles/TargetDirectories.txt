@@ -1,0 +1,5 @@
+/data/data/com.termux/files/home/cpp-concurrent-queue/build/CMakeFiles/queue_demo.dir
+/data/data/com.termux/files/home/cpp-concurrent-queue/build/CMakeFiles/queue_tests.dir
+/data/data/com.termux/files/home/cpp-concurrent-queue/build/CMakeFiles/test.dir
+/data/data/com.termux/files/home/cpp-concurrent-queue/build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/cpp-concurrent-queue/build/CMakeFiles/rebuild_cache.dir

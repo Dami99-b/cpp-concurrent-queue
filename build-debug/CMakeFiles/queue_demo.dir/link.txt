@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/c++ -g -Xlinker --dependency-file=CMakeFiles/queue_demo.dir/link.d CMakeFiles/queue_demo.dir/src/main.cpp.o -o queue_demo
